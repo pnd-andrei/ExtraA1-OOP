@@ -8,7 +8,7 @@ Use frequency analysis to break Caesar’s Cypher. This is a brute force method 
 Open the terminal, navigate to the desired location of the project using cd and clone the repository using the following command:
 
 ```bash
-git clone https://github.com/TunsTudor-Mircea/OOP_ExtraCredit1.git
+git clone https://github.com/pnd-andrei/ExtraA1-OOP
 ```
 
 ## File Structure
